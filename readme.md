@@ -1,4 +1,4 @@
-## Install Python3.11 {.tabset .tabset-fade}
+## Install Python3.11  {.tabset .tabset-fade}
 
 ### Ubuntu
 
@@ -20,8 +20,6 @@ sudo update-alternatives --install /usr/bin/python3 python3 /usr/bin/python3.11 
 sudo update-alternatives --config python3
 curl -sS https://bootstrap.pypa.io/get-pip.py | python3.9
 ```
-
-### CentOS
 
 
 
